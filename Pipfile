@@ -13,6 +13,7 @@ pandas = "*"
 matplotlib = "*"
 sklearn2pmml = "*"
 sklearn-pandas = "*"
+tensorflow = "*"
 
 [requires]
 python_version = "3.7"
